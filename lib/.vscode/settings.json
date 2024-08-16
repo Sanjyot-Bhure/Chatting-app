@@ -1,0 +1,28 @@
+{
+    "workbench.colorCustomizations": {
+        "statusBar.noFolderBackground": "#7C21D7",
+        "statussBar.prominentBackground": "#7C21D7",
+        "terminal.background": "#000000",
+        "terminal.foreground": "#2ccbee",
+        "terminalCursor.background": "#16130e",
+        "terminalCursor.foreground": "#0efaaf",
+        "terminal.ansiBlack": "#11c2fd",
+        "terminal.ansiBlue": "#0dffe7",
+        "terminal.ansiBrightBlack": "#140cff",
+        "terminal.ansiBrightBlue": "#0D6678",
+        "terminal.ansiBrightCyan": "#6607ff",
+        "terminal.ansiBrightGreen": "#fff202",
+        "terminal.ansiBrightMagenta": "#8F4673",
+        "terminal.ansiBrightRed": "#FB543F",
+        "terminal.ansiBrightWhite": "#FDF4C1",
+        "terminal.ansiBrightYellow": "#FAC03B",
+        "terminal.ansiCyan": "#ecff17",
+        "terminal.ansiGreen": "#95C085",
+        "terminal.ansiMagenta": "#8F4673",
+        "terminal.ansiRed": "#FB543F",
+        "terminal.ansiWhite": "#84a885",
+        "terminal.ansiYellow": "#FAC03B",
+        "iLoveWorkSpaceColors": true,
+        "iLoveWorkSpaceRandom": false
+    }
+}
